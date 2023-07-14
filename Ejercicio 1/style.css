@@ -1,0 +1,50 @@
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+header{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 30px;
+}
+
+.title{
+    font-size: 80px;
+}
+
+img{
+    width: 200px;
+}
+
+.asignment{
+    padding: 25px;
+    display: flex;
+    margin-top: 20px;
+    height:fit-content;
+    background-color: rgb(240 220 78);
+    font-size: 25px;
+
+}
+
+.content{  
+    background-color: rgb(225, 225, 225);
+    margin-top: 20px;
+    height:fit-content;
+    padding: 30px;
+    font-size: 50px;
+}
+
+p{
+    margin-left: 50px;
+}
+
+.text{
+    color: rgb(0, 0, 0);
+}
+
+
+
